@@ -10,3 +10,8 @@ print(a+b)
 print(a/b)
 print(a//b)
 print(a**b)
+z=0
+z+=5
+print(z)
+a=b=5
+print(a is b)
